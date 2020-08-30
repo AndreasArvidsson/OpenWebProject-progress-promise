@@ -1,4 +1,4 @@
-# OpenWebProject rm
+# OpenWebProject progress-promise
 Promise with support for progress updates
 
 ## Installation
