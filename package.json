@@ -1,0 +1,25 @@
+{
+    "name": "owp.progress-promise",
+    "description": "Promise with support for progress updates",
+    "version": "1.0.0",
+    "main": "index.js",
+    "files": [
+        "index.js"
+    ],
+    "keywords": [
+        "progress",
+        "promise",
+        "Open Web Project",
+        "owp"
+    ],
+    "author": "Andreas Arvidsson",
+    "license": "MIT",
+    "homepage": "https://github.com/AndreasArvidsson/OpenWebProject-progress-promise",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AndreasArvidsson/OpenWebProject-progress-promise.git"
+    },
+    "bugs": {
+        "url": "https://github.com/AndreasArvidsson/OpenWebProject-progress-promise/issues"
+    }
+}
