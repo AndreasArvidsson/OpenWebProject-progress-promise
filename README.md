@@ -26,6 +26,6 @@ promise.progress(progress => {
     console.log("Progress: " + progress);
 })
 .then(response => {
-    console.log(`Response: ${response}\n`);
+    console.log("Response: " + response);
 });
 ```
