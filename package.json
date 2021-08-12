@@ -1,7 +1,7 @@
 {
     "name": "owp.progress-promise",
     "description": "Promise with support for progress updates",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "main": "index.js",
     "files": [
         "index.js"
